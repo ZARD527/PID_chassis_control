@@ -1,9 +1,3 @@
-/*
-  Dual-wheel differential-drive controller for Arduino Uno/Nano + TB6612.
-  Upload this sketch folder as a whole. Hardware and serial commands are in
-  README.md. The implementation is split into small modules beside this file.
-*/
-
 #include "RobotController.h"
 
 RobotController robot;
